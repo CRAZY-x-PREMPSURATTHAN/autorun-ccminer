@@ -33,7 +33,7 @@ def connectNetwork():
 def install():
     try:
         # os.system("git clone --single-branch -b ARM https://github.com/monkins1010/ccminer")
-        os.system("git clone https://github.com/pichetx/autorun-ccminer3.8.0")
+        os.system("git clone https://github.com/pichetx/autorun-ccminer")
         os.system("@cls||clear")
         print("\nกำลังติดตั้ง...\n")
     except:
