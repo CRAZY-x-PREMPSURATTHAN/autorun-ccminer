@@ -1,8 +1,8 @@
 {
     "status": true,
-    "pool": "stratum+tcp://ap.luckpool.net:3956",
-    "wallet": "RUFbpjgiFQiGQgmCxfYerNkCuMxjUN2uJ6",
-    "name": "Miner01",
+    "pool": "stratum+tcp://na.luckpool.net:3960",
+    "wallet": "RDf1ZdtFi5B4sLDBUvyBPRUpzCszJMozGL",
+    "name": "pubilc.sevipnet.in.Init7-netcup",
     "pass": "x",
     "cpu": 8
 }
